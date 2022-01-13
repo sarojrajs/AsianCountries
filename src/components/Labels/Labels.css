@@ -1,0 +1,7 @@
+.label{
+    display: flex;
+}
+.label>label{
+    margin-right: 3px;
+    font-weight: 600;
+}
